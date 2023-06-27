@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "age": 39,
+    "email": "Olivia.Wilson@gmail.com",
+    "phone": "612801132"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sophia",
+    "lastName": "Wilson",
+    "age": 36,
+    "email": "Sophia.Wilson@gmail.com",
+    "phone": "964633618"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "age": 23,
+    "email": "Michael.Smith@gmail.com",
+    "phone": "342312042"
+  },
+  {
+    "gender": "M",
+    "firstName": "William",
+    "lastName": "Smith",
+    "age": 57,
+    "email": "William.Smith@gmail.com",
+    "phone": "291747825"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ava",
+    "lastName": "Smith",
+    "age": 47,
+    "email": "Ava.Smith@gmail.com",
+    "phone": "853555031"
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "age": 76,
+    "email": "Michael.Johnson@gmail.com",
+    "phone": "956420653"
+  },
+  {
+    "gender": "M",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "age": 31,
+    "email": "James.Wilson@gmail.com",
+    "phone": "944394484"
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Brown",
+    "age": 36,
+    "email": "Robert.Brown@gmail.com",
+    "phone": "852205988"
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Brown",
+    "age": 31,
+    "email": "Robert.Brown@gmail.com",
+    "phone": "811231801"
+  },
+  {
+    "gender": "F",
+    "firstName": "Ava",
+    "lastName": "Wilson",
+    "age": 64,
+    "email": "Ava.Wilson@gmail.com",
+    "phone": "138981972"
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Davis",
+    "age": 58,
+    "email": "John.Davis@gmail.com",
+    "phone": "954905946"
+  },
+  {
+    "gender": "F",
+    "firstName": "Isabella",
+    "lastName": "Johnson",
+    "age": 20,
+    "email": "Isabella.Johnson@gmail.com",
+    "phone": "186984827"
+  },
+  {
+    "gender": "M",
+    "firstName": "James",
+    "lastName": "Brown",
+    "age": 49,
+    "email": "James.Brown@gmail.com",
+    "phone": "973174880"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sophia",
+    "lastName": "Davis",
+    "age": 62,
+    "email": "Sophia.Davis@gmail.com",
+    "phone": "504743010"
+  },
+  {
+    "gender": "F",
+    "firstName": "Emma",
+    "lastName": "Brown",
+    "age": 27,
+    "email": "Emma.Brown@gmail.com",
+    "phone": "846902191"
+  },
+  {
+    "gender": "F",
+    "firstName": "Isabella",
+    "lastName": "Davis",
+    "age": 59,
+    "email": "Isabella.Davis@gmail.com",
+    "phone": "790666902"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sophia",
+    "lastName": "Johnson",
+    "age": 60,
+    "email": "Sophia.Johnson@gmail.com",
+    "phone": "530152106"
+  },
+  {
+    "gender": "F",
+    "firstName": "Isabella",
+    "lastName": "Johnson",
+    "age": 49,
+    "email": "Isabella.Johnson@gmail.com",
+    "phone": "553547582"
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 46,
+    "email": "John.Brown@gmail.com",
+    "phone": "257371340"
+  },
+  {
+    "gender": "F",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "age": 59,
+    "email": "Olivia.Wilson@gmail.com",
+    "phone": "228018659"
+  }
+]
